@@ -12,8 +12,8 @@ WriteLn('b=',b,);
 
 readln;
 end.
-Step-by-step instruction for writing Pascal 
-  کود بای اسید . سی اس اس
+Step-by-step instruction for writing Pascal
+Code by Flash.css
 ___________________________
 
 How to write Master's nonsense.
@@ -35,4 +35,4 @@ begin
  
   readln;
 end.
-تم النشر بواسطة acid.css
+Code by Flash.Css
