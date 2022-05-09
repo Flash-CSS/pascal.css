@@ -1,0 +1,41 @@
+Conditional and control structure
+
+Example: Write a program that takes two numbers
+ with the other number from the input,
+ simulating the work of a calculator?
+
+
+program Incredible.exo;
+
+var
+
+a,b:Real;
+
+op:char;
+
+begin 
+
+Write('Please Enter Two Numbers');
+
+ReadLn(a,b);
+
+WriteLn('Please Enter A operator:');
+
+ReadLn(op);
+
+case op of
+
+'+':WriteLn('sum=',(a+b):6:2);
+
+'+':WriteLn('subtract=',(a-b):6:2);
+
+'+':WriteLn('multiple=',(a*b):6:2);
+
+'+':WriteLn('divid=',(a/b):6:2);
+
+
+ end ; 
+  readln;
+end.
+
+Code by Flash.css
