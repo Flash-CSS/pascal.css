@@ -15,7 +15,7 @@ Grade    Outpot
 0-10        E
 
 
-program Exopultraplus;
+program Exo ultra plus;
 
 var 
 
